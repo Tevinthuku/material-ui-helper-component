@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/tooltips/CustomizedTooltips.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "crocks": "0.10.1",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "material-ui-helper-text"
+}
